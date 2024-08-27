@@ -13,7 +13,7 @@ export default function Home() {
         <p>I am <strong><em>John Roy C. Ducut.</em></strong>  Currently I am a 20 years old student who is at his 3rd year in the department of Information Technology at The University of the Assumption, and I live in the town of Macabebe. My hobbies are reading books, novels, manga, and gaming. My favoritetype of music is pop music. I especially like musicians like Alec Benjamin, Maroon 5, Sabaton, and Zack Tabudlo. My favorite foods are mostly potato dishes, and snacks like fries, hash browns, and mashed potatoes.</p>
         <hr></hr>
 
-        <p>I chose the IT department because, at the time, it was in high demand and aligned with my interests in computers.
+        <p>I chose the IT department because, at the time, it was in high demand and aligned with my interests in computers. IT also has many branches on which I can choose from when I work.
         </p>
         <hr></hr>
 
@@ -24,7 +24,7 @@ export default function Home() {
         </p>
         <hr></hr>
 
-        <p>I’m interested in learning about different ways to integrate systems, using middleware and APIs, and managing data between systems. I’d also like to cover cloud integration, security, real-life examples, and tools for system integration.
+        <p>I’m interested in learning about different ways to integrate systems, using middleware and APIs, and managing data between systems. I’d also like to cover cloud integration, security, real-life examples, and tools for system integration that I will be able to use once I begin working.
         </p>
         <hr></hr>
         <p>
