@@ -9,7 +9,8 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>I am <em>John Roy C. Ducut.</em>  Currently I am a 20 years old student who is at his 3rd year in the department of Information Technology at The University of the Assumption, and I live in the town of Macabebe. My hobbies are reading books, novels, manga, and gaming. My favoritetype of music is pop music. I especially like musicians like Alec Benjamin, Maroon 5, Sabaton, and Zack Tabudlo. My favorite foods are mostly potato dishes, and snacks like fries, hash browns, and mashed potatoes.</p>
+        <hr></hr>
+        <p>I am <strong><em>John Roy C. Ducut.</em></strong>  Currently I am a 20 years old student who is at his 3rd year in the department of Information Technology at The University of the Assumption, and I live in the town of Macabebe. My hobbies are reading books, novels, manga, and gaming. My favoritetype of music is pop music. I especially like musicians like Alec Benjamin, Maroon 5, Sabaton, and Zack Tabudlo. My favorite foods are mostly potato dishes, and snacks like fries, hash browns, and mashed potatoes.</p>
         <hr></hr>
 
         <p>I chose the IT department because, at the time, it was in high demand and aligned with my interests in computers.
