@@ -22,6 +22,7 @@ export default function Home() {
           <li>Being Coachable</li>
           <li>Doing A Little Extra</li>
           <li>Being Prepared</li>
+          <li>Having A Strong Work Ethics</li>        
         </ul>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
